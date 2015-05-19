@@ -1,6 +1,6 @@
 {
   "name": "rikku",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "To transform string like \"\\\\xE5\\\\x8F\\\\xAF\\\\xE3\\\\x80\\\\x82\" into normal ones.",
   "main": "index.js",
   "directories": {
