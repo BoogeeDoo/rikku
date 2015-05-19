@@ -1,6 +1,6 @@
 # Rikku
 
-To transform string like "\xE5\x8F\xAF\xE3\x80\x82" into normal ones.
+To transform string like "\\xE5\\x8F\\xAF\\xE3\\x80\\x82" into normal ones.
 
 ![Rikku](rikku.jpg)
 
