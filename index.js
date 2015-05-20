@@ -8,3 +8,7 @@ exports.decode = function(str) {
     return decodeURIComponent(str.replace(/\\x/g, "%"));
 };
 
+
+exports.encode = function(str) {
+    return encodeURIComponent(str).replace(/\%/g, "\\x");
+};
